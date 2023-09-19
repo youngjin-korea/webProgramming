@@ -5,4 +5,7 @@
 
 ### 2주차 학교 안내 페이지 만들기 ( stack: html, css  |  file: index.html ) 
 ![image](https://github.com/youngjin-korea/webProgramming/assets/101031079/8e7c129c-8f12-402a-a455-7865043e3b4a)
+***
+### 3주차 비디오 사진 오디오 실습 
+![image](https://github.com/youngjin-korea/webProgramming/assets/101031079/6732d976-ed6c-4726-b101-b68f8c7f0ce7)
 
